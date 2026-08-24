@@ -8,6 +8,7 @@ package model;
  *
  * @author sudan
  */
+//Rental: class can manages transactions between customers and vehicles
 import java.time.LocalDate;
 public class Rental {
     private String RentalID;
