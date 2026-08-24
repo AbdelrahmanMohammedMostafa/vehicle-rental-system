@@ -8,6 +8,7 @@ package model;
  *
  * @author sudan
  */
+//Customer: user who can rent,browse,and cancel bookings
 public class Customer extends User {
     private int Age;
     private String Gender;
