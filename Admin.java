@@ -8,6 +8,7 @@ package model;
  *
  * @author sudan
  */
+//Admin: who has the full system management control
 public class Admin extends User{
     
     public Admin(String ID, String FullName, String Username, String Password, String PhoneNumber, String Email_Address){
