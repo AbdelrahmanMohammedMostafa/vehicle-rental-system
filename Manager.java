@@ -8,6 +8,7 @@ package model;
  *
  * @author sudan
  */
+//Manager: subclass manages rentals and processes vehicle returns
 public class Manager extends User {
     private String Department;
     
