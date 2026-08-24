@@ -8,6 +8,7 @@ package model;
  *
  * @author sudan
  */
+//User:abstract base class to share personal info for all subclasses
 public abstract class User {
     private String ID;
     private String FullName;
